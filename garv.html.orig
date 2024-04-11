@@ -6,7 +6,10 @@
 		</head>
 		<body>
 			<h1>
-				Start
+<<<<<<< HEAD
+				Start // making a conflict //
+=======
+				Start // i am writing this line to create a conflict // 
 				Hello
 >>>>>>> dev
 			</h1>
